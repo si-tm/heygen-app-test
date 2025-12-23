@@ -1,0 +1,40 @@
+
+> vite-project@0.0.0 dev
+> vite
+
+
+  VITE v7.3.0  ready in 221 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+
+> vite-project@0.0.0 dev
+> vite
+
+
+  VITE v7.3.0  ready in 248 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+9:56:20 AM [vite] changed tsconfig file detected: /root/amplify-app-test/vite-project/tsconfig.app.json - Clearing cache and forcing full-reload to ensure TypeScript is compiled with updated config values.
+9:56:20 AM [vite] changed tsconfig file detected: /root/amplify-app-test/vite-project/tsconfig.json - Clearing cache and forcing full-reload to ensure TypeScript is compiled with updated config values.
+9:56:20 AM [vite] vite.config.ts changed, restarting server...
+9:56:20 AM [vite] (client) page reload index.html
+9:56:20 AM [vite] (client) hmr update /src/App.css
+9:56:20 AM [vite] (client) hmr update /src/App.tsx
+9:56:20 AM [vite] (client) hmr update /src/index.css
+9:56:20 AM [vite] (client) page reload src/main.tsx
+9:56:20 AM [vite] (client) page reload src/assets/react.svg
+9:56:20 AM [vite] (client) Re-optimizing dependencies because vite config has changed
+9:56:20 AM [vite] server restarted.
+
+> vite-project@0.0.0 dev
+> vite
+
+9:57:03 AM [vite] (client) Re-optimizing dependencies because vite config has changed
+Port 5173 is in use, trying another one...
+
+  VITE v7.3.0  ready in 316 ms
+
+  ➜  Local:   http://localhost:5174/
+  ➜  Network: use --host to expose
